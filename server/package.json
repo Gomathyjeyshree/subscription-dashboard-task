@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.mjs",
+    "seed:plans": "node src/seed/seedPlans.mjs"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

@@ -23,3 +23,9 @@
 ## user
 - Email: jeyshree@gmail.com
 - password: 12345
+
+
+## user
+Name: Gomathy jeyshree
+phone: 9952350549
+email: gomathyjeyshree15@gmail.com
